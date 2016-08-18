@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D9FCABB1-0852-674D-AA84-24F83652E241}") = "Locomotion Test", "Assembly-CSharp.csproj", "{BE4F84D7-F463-8913-3921-2C8C321E1530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4F84D7-F463-8913-3921-2C8C321E1530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4F84D7-F463-8913-3921-2C8C321E1530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4F84D7-F463-8913-3921-2C8C321E1530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4F84D7-F463-8913-3921-2C8C321E1530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
